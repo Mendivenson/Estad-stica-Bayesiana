@@ -1,2 +1,2 @@
-# Estad-stica-Bayesiana
-Casos de estudio del curso Estadística Bayesiana de la Universidad Nacional de Colombia
+# Estadística Bayesiana
+Casos de estudio resueltos en el curso de estadística bayesiana
