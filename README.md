@@ -11,3 +11,5 @@ Solución de los casos de estudio presentados como actividades evaluativas en el
 ## Disclaimer:
 
 Todas las soluciones aquí presentadas contienen errores claramente señalados por el docente en el archivo `anotaciones` de cada uno de los casos de estudio.
+
+**Este repositorio está archivado**
